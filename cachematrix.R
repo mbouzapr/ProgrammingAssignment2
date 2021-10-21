@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## cacheSolve combined with makeChaceMatrix combine to return the inverse of a supplied matrix and cache both the input and output in order to speed up subsequent calls.
 
 ## function caches supplied matrix & inverse matrix values and provides an interface to access them.
 
